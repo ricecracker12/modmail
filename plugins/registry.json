@@ -1,13 +1,4 @@
 {
-    "advanced-menu": {
-        "repository": "sebkuip/mm-plugins",
-        "branch": "master",
-        "description": "Advanced menu plugin using dropdown selectors. Supports submenus (and sub-submenus infinitely).",
-        "bot_version": "v4.0.0",
-        "title": "Advanced menu",
-        "icon_url": "https://raw.githubusercontent.com/sebkuip/mm-plugins/master/advanced-menu/logo.png",
-        "thumbnail_url": "https://raw.githubusercontent.com/sebkuip/mm-plugins/master/advanced-menu/logo.png"
-    },
     "announcement": {
         "repository": "Jerrie-Aries/modmail-plugins",
         "branch": "master",
@@ -16,6 +7,15 @@
         "title": "Announcement",
         "icon_url": "https://github.com/Jerrie-Aries.png",
         "thumbnail_url": "https://raw.githubusercontent.com/Jerrie-Aries/modmail-plugins/master/.static/announcement.jpg"
+    },
+    "autoreact": {
+        "repository": "martinbndr/kyb3r-modmail-plugins",
+        "branch": "master",
+        "description": "Automatically reacts with emojis in certain channels.",
+        "bot_version": "4.0.0",
+        "title": "Autoreact",
+        "icon_url": "https://raw.githubusercontent.com/martinbndr/kyb3r-modmail-plugins/master/autoreact/logo.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/martinbndr/kyb3r-modmail-plugins/master/autoreact/logo.png"
     },
     "giveaway": {
         "repository": "Jerrie-Aries/modmail-plugins",
@@ -63,13 +63,13 @@
         "thumbnail_url": "https://i.imgur.com/Mo60CdK.png"
     },
     "claim": {
-        "repository": "fourjr/modmail-plugins",
-        "branch": "v4",
-        "description": "Allows supporters to claim thread by sending ?claim in the thread channel",
-        "bot_version": "4.0.0",
+        "repository": "martinbndr/kyb3r-modmail-plugins",
+        "branch": "master",
+        "description": "Adds claim functionality to your modmail bot.",
+        "bot_version": "4.2.1",
         "title": "Claim Thread",
-        "icon_url": "https://i.imgur.com/Mo60CdK.png",
-        "thumbnail_url": "https://i.imgur.com/Mo60CdK.png"
+        "icon_url": "https://i.ibb.co/dsPjgKLj/87249157.png",
+        "thumbnail_url": "https://i.ibb.co/dsPjgKLj/87249157.png"
     },
     "emote-manager": {
         "repository": "fourjr/modmail-plugins",
@@ -115,5 +115,14 @@
         "title": "Top Supporters",
         "icon_url": "https://i.imgur.com/Mo60CdK.png",
         "thumbnail_url": "https://i.imgur.com/Mo60CdK.png"
+    },
+    "rename": {
+        "repository": "Nicklaus-s/modmail-plugins",
+        "branch": "master",
+        "description": "Set a thread channel name.",
+        "bot_version": "4.0.0",
+        "title": "Rename",
+        "icon_url": "https://i.imgur.com/A1auJ95.png",
+        "thumbnail_url": "https://i.imgur.com/A1auJ95.png"
     }
 }
